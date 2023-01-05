@@ -1,5 +1,8 @@
 # Tilgin_H2751-Bredband2
 
+![20221228_005029](https://user-images.githubusercontent.com/26827453/210712060-f1172743-d3be-41d1-94b2-ab5a64a16d27.jpg)
+
+
 When resetting the router to a factory reset the kernel suffers a kernel panic which means that "Config-A" is never recreated from the current installation so the device will reset to "Factory" settings where you can log in as admin:admi if you will boot the device without any WAN cable connected for the first boot efter reset, however this is not the same as `root` and in this README I will let you login as root on ANY Tilgin H27XX router, but this readme will also provide the specific admin password for Alltele/Bredband2's administrator who apparently forgot to delete the original root password that the router has before it is sent to the supplier.
 
 ![tilgin_root](https://user-images.githubusercontent.com/26827453/210668138-14a36a10-d9ac-4be6-9ccd-14f6b27c7cf5.gif)
