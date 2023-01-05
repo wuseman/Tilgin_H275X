@@ -110,7 +110,7 @@ echo 'root:password' \
 iptables and dropbear commands and other super user commands wont work by default since they are not added to `PATH`, fix this by copy and paste below.
 
 ```
-echo 'PATH=${PATH}:/usr/sbin' >> /etc/profile
+echo 'export PATH=${PATH}:/usr/sbin' >> /etc/profile
 . /etc/profile
 ```
 
