@@ -525,4 +525,4 @@ GNU ld (GNU Binutils) 2.29.1
 ### Contact Page
 
   * Gentoo: https://wiki.gentoo.org/wiki/User:Wuseman
-  * LiebraChat: https://web.libera.chat/
+  * LibeaChat: https://web.libera.chat/
