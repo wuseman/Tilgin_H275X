@@ -73,7 +73,6 @@ Password_rev: 04_01_00_36
 Linux version 4.9.218 (helen@builserver01) (gcc version 6.3.0 (GCC) ) #3 SMP Sat Oct 16 15:53:20 BST 2021
 ```
 
-
 ### /proc/mtd
 
 ```
@@ -194,8 +193,7 @@ cget -t
 ### Use property `<prop>` view
 
 ```bash
-cget -v      Cancel
-Footer
+cget -v   
 
 ```
   
