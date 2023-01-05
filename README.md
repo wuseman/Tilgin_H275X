@@ -61,9 +61,7 @@ Password_rev: 04_01_00_36
 ## Login: User 3 (you probably know this already)
 
 ```
-Username: user Cancel
-Footer
-
+Username: user
 Password: user
 Password_def: T8,b1=l9,G0
 Password_rev: 04_01_00_36
