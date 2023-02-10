@@ -1,10 +1,90 @@
-# Tilgin_H2751-Bredband2
+![20230210_094908](https://user-images.githubusercontent.com/26827453/218066552-4544dc0b-f8b5-4d29-ab16-0f168b028d17.png)
 
-![20221228_005029](https://user-images.githubusercontent.com/26827453/210712060-f1172743-d3be-41d1-94b2-ab5a64a16d27.jpg)
+![211260407-ca948c35-3157-4840-a335-b19e67bde636](https://user-images.githubusercontent.com/26827453/218072143-197082ae-86fa-46d6-abc1-ab6c742d8432.png)
 
+## Some news from: `2023-02-10`: 
+
+Some internet providers has upgraded their setups after I provided the root password for **ALL** of these routers. Now they have disabled serial console and ssh and like this was enough, they also disabled root user and changed root/admin password, root is now disabled on webui by default and if you will go online and firmnware will be upgraded you got problems for sure so disable tr069 and keep rocking..
+
+I have seen some some old cve's for other Tilgin devices but this is MUCH bigger then the old cve's and of course I wont help people to do bad things since im different and I think cve's just contributes to a lot of people getting access to the wrong person's script/program where they can then carry out their attacks.
+
+White hats sucks, black hats sucks, red hats sucks, blue hats sucks and money sucks and btw, who wants to be famous as a rockstar? Yeh, the ransomware guys have got some insane reputation..
+
+where the operators have infected their citizens with trendmicro's garbage, that's how they keep track of the statistics.
+
+Yes, I'm quite angry because I think it's pathetic because.
+
+1) Internet providers don't give a fuck about their users.
+2) Their passwords suck
+3) Encryption is meant to be secret, not to be saved in clear text then it serves no purpose.
+4) It's great that they work on solving problems BUT they don't solve any problems, they just hide them with the worst imaginable methods.
+
+We all are vulnerable nbecause of these bastards, and THEN they infect devices with nmap, trendmicro and scanning for malware via drsniffer on people's private network.
+
+JKesus Chris, it never ends and people doing their best for keep things private but hey...Seriously, think about it..
+
+How many times have you been careless with your passwords or logins so it's your fault that you got hacked or had your data leaked? Probably none? Blame those who don't care, you should know who they are by now and stop  pretend like they are our friends, fuck the system.
+
+Never give up guys or just shut the fuck up, here we go again! 
+
+## Worldwide (paltel and all of these malware hunters is affected)
+
+```
+Username: root
+Password: Yli7jGhkUp99#
+```
+
+## Sweden only (admin now got root privleges insted since root is disabled)
+
+```
+Username: admin
+Password: Kan66True#
+```
+
+
+
+Changed the name of this repository as it is extremely much larger than I first thought.
+
+## Various devices, someone hacking like a boss but the hacker is unknown, seems he found root of all Internet Providers, well well. Proofs!
+
+## bezeq
+![bezeq](https://user-images.githubusercontent.com/26827453/218063812-ca561727-f098-4ad0-9c25-2c3e29160c8c.png)
+
+## bezeqint
+
+![bezeqint](https://user-images.githubusercontent.com/26827453/218063815-3ae9f8e0-ad48-46cc-8bfe-be509441f0ca.png)
+
+## golan
+
+![golan](https://user-images.githubusercontent.com/26827453/218063816-6efc967d-90fd-4093-b55c-514bd17a9c77.png)
+
+## hadara
+
+![hada](https://user-images.githubusercontent.com/26827453/218064529-cab75e12-cc3a-4566-9b97-3249baba9844.png)
+
+## hyperoptic
+
+![hyperoptic](https://user-images.githubusercontent.com/26827453/218063821-bc40652d-97fe-4f8d-8bf9-42ca914421e5.png)
+
+## paltel
+
+![paltel](https://user-images.githubusercontent.com/26827453/218063822-6d7bb253-92df-4881-8f20-cd2f3c7567c9.png)
+
+## telekom_srbija
+
+![telekom_srbija](https://user-images.githubusercontent.com/26827453/218063827-87340e8b-7ba0-4abc-bc3c-5f330078c820.png)
+
+## ttnet
+
+![ttnet](https://user-images.githubusercontent.com/26827453/218063831-a120be67-433c-40d3-958f-3cd60093b333.png)
+
+
+# Tilgin-H275
+
+
+![20221228_005029](https://user-images.git´hubusercontent.com/26827453/210712060-f1172743-d3be-41d1-94b2-ab5a64a16d27.jpg)
 
 When resetting the router to a factory reset the kernel suffers a kernel panic which means that "Config-A" is never recreated from the current installation so the device will reset to "Factory" settings where you can log in as `admin:admin` if you will boot the device without any WAN cable connected for the first boot after reset, however this is not the same as `root` and in this README I will let you login as root on ANY Tilgin H27XX router, but this readme will also provide the specific admin password for Alltele/Bredband2's administrator who apparently forgot to delete the original root password that the router has before it is sent to the supplier.
-
 ![tilgin_root](https://user-images.githubusercontent.com/26827453/210668138-14a36a10-d9ac-4be6-9ccd-14f6b27c7cf5.gif)
 
 ## Serial Console
@@ -514,6 +594,7 @@ Tilgin UBI HG26xx/27xx_800 U-Boot 2016.07 (Oct 16 2021 - 18:08:38) 04_01_00_36
 mips-linux-gcc (GCC) 6.3.0
 GNU ld (GNU Binutils) 2.29.1
 ```
+
 
 
 ## Author
