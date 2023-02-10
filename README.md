@@ -1,8 +1,8 @@
-![20230210_094908](https://user-images.githubusercontent.com/26827453/218066552-4544dc0b-f8b5-4d29-ab16-0f168b028d17.png)
+## News from: `2023-02-10`: 
+
+![20230210_114257](https://user-images.githubusercontent.com/26827453/218072594-d397aae7-a0ab-4ddb-97bd-0d63f56382a6.png)
 
 ![211260407-ca948c35-3157-4840-a335-b19e67bde636](https://user-images.githubusercontent.com/26827453/218072143-197082ae-86fa-46d6-abc1-ab6c742d8432.png)
-
-## Some news from: `2023-02-10`: 
 
 Some internet providers has upgraded their setups after I provided the root password for **ALL** of these routers. Now they have disabled serial console and ssh and like this was enough, they also disabled root user and changed root/admin password, root is now disabled on webui by default and if you will go online and firmnware will be upgraded you got problems for sure so disable tr069 and keep rocking..
 
@@ -21,7 +21,7 @@ Yes, I'm quite angry because I think it's pathetic because.
 
 We all are vulnerable nbecause of these bastards, and THEN they infect devices with nmap, trendmicro and scanning for malware via drsniffer on people's private network.
 
-JKesus Chris, it never ends and people doing their best for keep things private but hey...Seriously, think about it..
+Jesus Chris, it never ends and people doing their best for keep things private but hey...Seriously, think about it..
 
 How many times have you been careless with your passwords or logins so it's your fault that you got hacked or had your data leaked? Probably none? Blame those who don't care, you should know who they are by now and stop  pretend like they are our friends, fuck the system.
 
