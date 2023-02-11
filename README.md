@@ -34,7 +34,7 @@ Username: root
 Password: Yli7jGhkUp99#
 ```
 
-## Sweden only (admin now got root privleges insted since root is disabled)
+## Sweden only (admin now got root privileges instead wich was not the case before and since root is disabled use admin and activate ssh and then u can enable root account with `cset  /webui/user/1/enable true`)
 
 ```
 Username: admin
@@ -42,8 +42,7 @@ Password: Kan66True#
 ```
 
 
-
-Changed the name of this repository as it is extremely much larger than I first thought.
+I have renamed this repo since this is extremely much larger than I first thought, this is not just one ISP it's 15+ it seems.
 
 ## Various devices, someone hacking like a boss but the hacker is unknown, seems he found root of all Internet Providers, well well. Proofs!
 
